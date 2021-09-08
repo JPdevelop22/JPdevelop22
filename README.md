@@ -2,8 +2,6 @@
     <img alt="JP9022 fire gif" style="border-radius: 20px;" src="./Res/Media/Logos/JP9022 logotipo con fuego.gif" width="150" height="150"/>
 </p>
 
-<br />
-
 # Hi!, I'm José Paulino - aka: [JPdevelop22][githubprofile] 👋
 
 ### I'm a developer and database manager 👨‍💻🚀
