@@ -30,7 +30,8 @@
     <img title="Bootstrap" alt="Bootstrap" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
     <img title="JavaScript" alt="JavaScript" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img title="JQuery" alt="JQuery" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-    <img title="React" alt="React" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img title="React.js" alt="React.js" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img title="Redux.js" alt="Redux.js" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
     <img title="NodeJs" alt="NodeJs" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <img title="SQL" alt="SQL" style="margin: 1px 2px;" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
     <img title="SQL Server" alt="SQL Server" style="margin: 1px 2px;" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg" />
